@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>X.eebe40b4-dd87-11eb-b4b0-18c04d373779.jpg</filename>
+	<path>C:\Users\User\Desktop\Deep Learning\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\X.eebe40b4-dd87-11eb-b4b0-18c04d373779.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>166</ymin>
+			<xmax>240</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>
